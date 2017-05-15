@@ -1,0 +1,71 @@
+THIS IS TIME CONSUMING SO DO THINGS FAST::::
+
+NO FAP PROGRAM::::
+
+NEVER PANIC::::
+
+GOING IN AS A CHAMPION::::
+
+SEE THAT STUFF THAT CHETAN BHURE LEFT ON YOUR PC FOR MARKING SCHEME::::
+
+******DO COMMENT::::
+
+READ THE INSTRUCTIONS CAREFULLY::::
+
+YOU HAVE ALL STUFF USE WISELY::::
+=========================================================
+see all previous assignments
+see all 17 dumps
+see extra assignment Qs And As from ak(ESPECIALLY 16TH SUM OF ABC LAPTOPS SWITCH CASE)
+do atleast 3 before sleeping
+DO THAT SUM WHICH WAS GIVEN TO TR12 BY THEIR SIR
+Do midtest of tr13 and tr12
+EXTRA ASSIGNMENTS KA LAST ABC, MENU WALA SUM IS IMP
+in the end atleast see ALL whats in lappy for java
+DO TRY CATCH,ERROR HANDLING PROPERLY, BOTH TABS, AS WELL AS IF STATMENTS
+
+=========================================================
+
+
+SUMS WITH DOUBTS OR LEFT
+
+do dumps2.2
+parse int all
+DO SWITCH CASE
+when to use iterator and when not
+treeset
+hash map set entry set
+foreach loop
+pw (,boolean true)
+DO Math.random()*10
+.equalsIgnoreCase use karke dekh, always use .equals for string
+ vehicle.java ka math.round, math.random()
+if boolean asked to take its always true
+for abstract obj is not created, super.
+DUMPS 3.2 NAHI SAMJH MEIN AAYA,CASTING BHI KIYA FROM CAR TO VEHICLE
+abstract method return ZERO
+how to take integers from 
+4.1	 billAmount=(float) (30+((minutes-30)*0.5));
+	this.billNo = (int)Math.round(Math.random()*10);
+	c[0].calculateBill(minutes);   CAN DO
+int customerId= (int)Math.round(Math.random()*10);
+5.1	IMP 	emp[0]=new Technical(empId, empName, dateofjoin, basicSal);
+6.1 treemap<> .put  Order order, calling order by passing only 2 parameters
+you do it personally
+
+6.2 FileInputStream fis = new FileInputStream(args[0]);
+
+		ObjectInputStream ois = new ObjectInputStream(fis);
+
+******************** emp =   (Employee) ois.readObject();***********
+(type cat it) while reading      
+	 System.out.println(emp.getDeptNo());
+============================
+object storing and reading in file,use oos,ois
+============
+
+		FileOutputStream fos = new FileOutputStream("employee.txt "); 
+		ObjectOutputStream oos = new ObjectOutputStream(fos);
+		oos.writeObject(emp);
+=====================
+7.1	 if(accountNumber.substring(0, 3).equals("ACC"))
